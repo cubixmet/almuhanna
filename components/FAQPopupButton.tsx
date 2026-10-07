@@ -13,7 +13,7 @@ export default function FAQPopupButton() {
 
     const message = `Hello, I have a question:\n\n${question}`;
 
-    const whatsappUrl = `https://wa.me/966561908308?text=${encodeURIComponent(
+    const whatsappUrl = `https://wa.me/966531553364?text=${encodeURIComponent(
       message
     )}`;
 

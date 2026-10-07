@@ -5,7 +5,7 @@ export const COMPANY = {
   subTagline: "Reliable Industrial Supply Partner in Saudi Arabia",
 
   phone: "+966 53 835 7119",
-  whatsapp: "966538357119",
+  whatsapp: "966531553364",
   email: "sales@almohannasa.com",
 
   address: "Ghorabi Electrical Market, Batha, Riyadh",

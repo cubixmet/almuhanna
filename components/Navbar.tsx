@@ -96,7 +96,7 @@ export default function Navbar() {
 
           {/* DESKTOP CTA */}
           <a
-            href="https://wa.me/966561908308"
+            href="https://wa.me/966531553364"
             target="_blank"
             rel="noopener noreferrer"
             className="hidden items-center gap-3 rounded-full bg-gradient-to-r from-[#36B1C7] to-[#960B33] px-6 py-3 text-sm font-black uppercase tracking-[0.15em] text-white shadow-[0_0_30px_rgba(54,177,199,0.3)] transition duration-300 hover:scale-105 lg:inline-flex"
@@ -168,7 +168,7 @@ export default function Navbar() {
               {/* CTA */}
               <div className="mt-auto pt-10">
                 <a
-                  href="https://wa.me/966561908308"
+                  href="https://wa.me/966531553364"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex w-full items-center justify-center gap-3 rounded-full bg-gradient-to-r from-[#36B1C7] to-[#960B33] px-6 py-4 text-sm font-black uppercase tracking-[0.15em] text-white shadow-[0_0_30px_rgba(54,177,199,0.3)]"

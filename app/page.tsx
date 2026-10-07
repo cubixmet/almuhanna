@@ -74,7 +74,7 @@ export default function HomePage() {
               </Link>
 
               <a
-                href="https://wa.me/966561908308"
+                href="https://wa.me/966531553364"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex w-full items-center justify-center gap-3 rounded-full border border-[#36B1C7]/20 bg-white/70 px-7 py-4 text-center text-xs font-black uppercase tracking-[0.14em] text-[#0B0F19] backdrop-blur-xl transition duration-300 hover:border-[#36B1C7]/40 hover:bg-white sm:w-auto sm:px-8 sm:text-sm"

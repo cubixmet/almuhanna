@@ -79,7 +79,7 @@ export default function Footer() {
             {/* CTA */}
             <div className="mt-8 sm:mt-10">
               <a
-                href="https://wa.me/966561908308"
+                href="https://wa.me/966531553364"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="group flex w-full items-center justify-center gap-3 rounded-full bg-gradient-to-r from-[#36B1C7] to-[#960B33] px-6 py-4 text-xs font-bold uppercase tracking-[0.12em] text-white shadow-[0_0_40px_rgba(54,177,199,0.25)] transition duration-300 hover:scale-[1.02] sm:inline-flex sm:w-auto sm:px-8 sm:text-sm"
@@ -155,10 +155,10 @@ export default function Footer() {
               title: "Phone",
               content: (
                 <a
-                  href="tel:+966561908308"
+                  href="tel:+966531553364"
                   className="mt-2 block text-base font-bold text-white transition hover:text-[#36B1C7] sm:text-lg"
                 >
-                  +966 56 190 8308
+                  966531553364
                 </a>
               ),
             },

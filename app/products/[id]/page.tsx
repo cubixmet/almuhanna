@@ -59,6 +59,7 @@ export default async function ProductDetailsPage({
                 src={product.image}
                 alt={product.title}
                 fill
+                sizes="(max-width: 1023px) 100vw, 50vw"
                 className="object-cover"
                 priority
               />
